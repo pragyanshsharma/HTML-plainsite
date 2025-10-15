@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    max-width: 850px;
+}
+.middle {
+    display: inline-block;
+    max-width: 275px;
+    border:   2px solid black;
+    padding: 10px;
+    margin-top: 0;
+    align-items: stretch;
+}
+.review {
+    border-radius: 10%;
+    max-width: 225px;
+}
+.nav{
+    justify-content: flex-end;
+}
+.experience {
+    padding-top: -20px;
+    padding-bottom: -20px;
+}
+.Projects{
+    max-height: stretch;;
+}
+.a{
+    color:black;
+}
+.Articles, .Contacts{
+    border:   2px solid black;
+    max-width: 600px;
+}
